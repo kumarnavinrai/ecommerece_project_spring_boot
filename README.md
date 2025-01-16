@@ -1,5 +1,5 @@
 ## Old Version
-- https://github.com/jaygajera17/E-commerce-project-springBoot/tree/main
+- https://github.com/kumarnavinrai/ecommerece_project_spring_boot
 - issue: everytime connection open close for access database 
 
 ## New Version ( what's new)
